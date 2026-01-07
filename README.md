@@ -9,6 +9,16 @@ This repository contains extensive experiments comparing traditional machine lea
 - **Lung Opacity** - Various degrees of lung abnormalities  
 - **Viral Pneumonia** - Viral pneumonia infections
 
+## Live Demo
+
+See the best model in action. The Custom ANN (91.2% accuracy) is deployed as an interactive web application.
+
+**Try it:** [https://lung-disease-classification.streamlit.app/](https://lung-disease-classification.streamlit.app/)
+
+![App Demo](lung-demo.gif)
+
+**Web App Repository:** [https://github.com/laksh-ya/Lung-Disease-Classification/](https://github.com/laksh-ya/Lung-Disease-Classification/)
+
 
 ## Dataset
 
